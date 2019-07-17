@@ -8,6 +8,10 @@
     "dev": "mrpo dev",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allain/collect-deps"
+  },
   "author": "Allain Lalonde <allain.lalonde@gmail.com>",
   "license": "ISC",
   "dependencies": {
